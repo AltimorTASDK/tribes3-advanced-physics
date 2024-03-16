@@ -4,7 +4,7 @@ Slope deflects are by far the most important advanced technique, and you're alre
 ### Conditions:
 1. Be jetting
 2. Collide with a surface you'd be able to stand on
-3. Have a Z velocity greater than 0
+3. Have a Z velocity greater than 0 (moving upward)
 
 When you meet these conditions, at the end of the physics frame, after your velocity has been clipped to be tangent to the slope, your original velocity magnitude is applied to your new direction. **You deflect off the slope with full speed.** Importantly, the angle of the slope, how upward your approach is, and how long you jet for all don't matter. This results in an important property: **Any slope face can be traversed with a single frame of jets.**
 
