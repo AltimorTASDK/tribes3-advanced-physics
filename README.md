@@ -9,3 +9,12 @@ Some numbers and curves were also obtained by datamining and verified in-game af
 ## Recommended reading order
 1. Slope deflect
 2. Ski landing
+
+## Binds
+The binds used in the input display are:
+| Key              | Action        |
+| ---------------- | ------------- |
+| Space            | Ski           |
+| Control          | Jump          |
+| Right Click      | Jet           |
+| Mouse Wheel Down | Jet (bhop)    |
