@@ -14,7 +14,7 @@ https://github.com/AltimorTASDK/tribes3-advanced-physics/assets/4999944/b767c6c8
 
 *A 20.6 degree bump on the way down and a 24.2 degree "ski landing deflect" on the way up. Jets were only used after landing. 0 speed loss from collisions.*
 
-This might sound like it makes it really easy to ski perfectly, but in many cases, it just moves the ideal target to the edge of the 30 degree range. Being able to land on flatter ground allows immediate horizontal speed conversion and allows hitting flatter hills from trajectories that would normally be steep for them.
+This might sound like it makes it really easy to ski perfectly, but in many cases, it just moves the ideal target to the edge of the 30 degree range. Being able to land on flatter ground allows immediate horizontal speed conversion and allows hitting flatter hills from trajectories that would normally be steep for them so that more jets to be used for speed gain.
 
 https://github.com/AltimorTASDK/tribes3-advanced-physics/assets/4999944/3af52295-644e-441e-87e4-714a7bc000e0
 
